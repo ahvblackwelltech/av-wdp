@@ -105,13 +105,8 @@ a:active {
 }
 
 .probootstrap-logo {
-    float: left;
-    color: #ffffff;
-    padding-left: 60px;
-    font-size: 20px;
-    display: block;
-    text-transform: uppercase;
-    font-weight: 500;
+    float: ;
+    padding-left: 30px;
 }
 
 .probootstrap-logo:hover,
